@@ -1,0 +1,102 @@
+# head
+- type: loadout
+  id: StationEngineerHardhatYellow
+  equipment:
+        head: ClothingHeadHatHardhatYellow
+
+- type: loadout
+  id: StationEngineerHardhatOrange
+  equipment:
+        head: ClothingHeadHatHardhatOrange
+
+- type: loadout
+  id: StationEngineerHardhatRed
+  equipment:
+        head: ClothingHeadHatHardhatRed
+
+# jumpsuit
+- type: loadout
+  id: StationEngineerJumpsuit
+  equipment:
+        jumpsuit: ClothingUniformJumpsuitEngineering
+
+- type: loadout
+  id: StationEngineerJumpskirt
+  equipment:
+        jumpsuit: ClothingUniformJumpskirtEngineering
+
+- type: loadout
+  id: SecurityJumpsuit
+  equipment:
+        jumpsuit: ClothingUniformJumpsuitSec
+
+- type: loadout
+  id: SecurityJumpskirt
+  equipment:
+        jumpsuit: ClothingUniformJumpskirtSec
+
+# Back
+- type: loadout
+  id: StationEngineerBackpack
+  equipment:
+        back: ClothingBackpackEngineering
+
+- type: loadout
+  id: SecurityBackpack
+  equipment:
+        back: ClothingBackpackSecurity
+
+- type: loadout
+  id: EngineeringSatchel
+  equipment:
+        back: ClothingSatchelEngineering
+
+- type: loadout
+  id: SecuritySatchel
+  equipment:
+        back: ClothingSatchelSecurity
+
+- type: loadout
+  id: EngineeringDuffle
+  equipment:
+        back: ClothingBackpackDuffleEngineering
+
+- type: loadout
+  id: SecurityDuffle
+  equipment:
+        back: ClothingBackpackDuffleSecurity
+# Outer Clothing
+- type: loadout
+  id: ArmorVest
+  equipment:
+        torso: ClothingTorsoArmorVest
+
+- type: loadout
+  id: ArmorVestSlim
+  equipment:
+    outerClothing: ClothingOuterArmorBasicSlim
+# belt
+- type: loadout
+  id: StationEngineerBelt
+  equipment:
+         belt: ClothingBeltUtilityEngineering
+# Shoes
+- type: loadout
+  id: CombatBoots
+  equipment:
+        shoes: ClothingShoesBootsCombatFilled
+
+- type: loadout
+  id: JackBoots
+  equipment:
+        shoes: ClothingShoesBootsJackFilled
+
+- type: loadout
+  id: SecurityWinterBoots
+  equipment:
+        shoes: ClothingShoesBootsWinterSecFilled
+#PDA
+- type: loadout
+  id: CombativeEngineerPDA
+  equipment:
+        id: CombativeEngineerPDA

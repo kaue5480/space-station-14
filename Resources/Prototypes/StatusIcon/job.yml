@@ -194,6 +194,14 @@
 # Security
 
 - type: jobIcon
+    parent: JobIcon
+    id: CombativeEngineer
+    icon:
+        sprite: *icon-rsi
+        state: CombativeEngineer
+    jobName: job-name-CombativeEngineer
+
+- type: jobIcon
   parent: JobIcon
   id: JobIconBrigmedic
   icon:

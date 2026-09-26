@@ -78,6 +78,7 @@
   - JobIconBrigmedic
   - JobIconDetective
   - JobIconWarden
+  - JobIconCombativeEngineer
 
 - type: jobIconGroup
   id: ServiceIconGroup
