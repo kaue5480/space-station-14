@@ -97,6 +97,6 @@
         shoes: ClothingShoesBootsWinterSecFilled
 #PDA
 - type: loadout
-  id: CombativeEngineerPDA
+  id: SecurityPDA
   equipment:
-        id: CombativeEngineerPDA
+        id: SecurityPDA
